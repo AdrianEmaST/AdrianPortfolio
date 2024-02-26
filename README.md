@@ -1,6 +1,6 @@
 # Portfolio de Desarrollo Frontend
 
-¡Bienvenido a mi portfolio de desarrollo frontend! Este proyecto es un ejemplo de un portafolio personal diseñado y desarrollado por mí, donde muestro mis habilidades, proyectos y experiencia como desarrollador web.
+¡Bienvenido a mi portfolio de desarrollo frontend! Este proyecto es un ejemplo de un portafolio personal desarrollado por mí, donde muestro mis habilidades, proyectos y experiencia como desarrollador web.
 
 ## Tecnologías Utilizadas:
 
@@ -21,16 +21,6 @@
 - **CSS**: Los estilos están organizados en un archivo CSS separado para mantener el código limpio y modular. Se han definido estilos para cada sección del sitio web, incluyendo el diseño, los colores y las animaciones.
 
 - **JavaScript**: El archivo JavaScript se encarga de la funcionalidad de animación de las barras de progreso. Utiliza el evento de desplazamiento (scroll) para verificar si las barras de progreso están en el área visible y animarlas en consecuencia.
-
-## Cómo Fue Realizado:
-
-1. **Diseño y Maquetación**: Comencé el proyecto diseñando el aspecto visual del portafolio utilizando herramientas de diseño como Adobe XD o Figma. Luego, utilicé CSS Grid y Flexbox para implementar el diseño en el código HTML, asegurándome de que el sitio fuera responsive y compatible con diferentes dispositivos y tamaños de pantalla.
-
-2. **Implementación de Estilos**: Escribí estilos CSS para cada sección del sitio web, utilizando variables CSS para los colores y fuentes, y aplicando técnicas de diseño como sombras, bordes y animaciones para mejorar la apariencia general del sitio.
-
-3. **Funcionalidad de JavaScript**: Para la funcionalidad de animación de las barras de progreso, utilicé JavaScript para detectar cuándo las barras están en el área visible del navegador y animarlas dinámicamente en respuesta al desplazamiento del usuario.
-
-4. **Pruebas y Optimización**: Finalmente, realicé pruebas exhaustivas en diferentes navegadores y dispositivos para garantizar que el sitio funcionara correctamente y se viera bien en todas partes. También optimicé el código y los recursos para mejorar el rendimiento y la velocidad de carga del sitio.
 
 ## ¡Gracias por Visitar!
 
