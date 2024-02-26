@@ -124,6 +124,9 @@ h5 {
 .subrayado-nombre {
     border-bottom: 10px solid var(--color-verde)
 }
+.caja-bienvenida p{
+    margin-top: 110px;
+}
 
 .contacto {
     grid-area: 3 / 1 / 4 / 2;
@@ -174,7 +177,7 @@ h5 {
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(5, 1fr);
     grid-column-gap: 0px;
-    grid-row-gap: 0px;
+    grid-row-gap: 80px;
     margin-top: 22px;
     text-align: center;
     align-items: center;
@@ -300,6 +303,7 @@ grid-row-gap: 0px;
     font-size: 88px;
     line-height: 88px;
     letter-spacing: -2.5px;
+    margin-bottom: 50px;
 }
 
 .projects-box {
@@ -421,7 +425,7 @@ grid-row-gap: 0px;
     height: 327px;
     width: 1110px;
     margin-left: 165px;
-    margin-top: 33px;
+    margin-top: 50px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(1, 1fr);
@@ -432,6 +436,7 @@ grid-row-gap: 0px;
 
 .footer-text {
     grid-area: 1 / 1 / 2 / 2;
+    margin-top: 100px;
 }
 
 .footer-text p {
